@@ -1,0 +1,36 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f7fb;
+  color: #2a3f54;
+  text-align: center;
+  padding: 50px;
+  margin: 0;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+  background: white;
+  padding: 2em;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.logo {
+  max-width: 400px;
+  /* margin-bottom: 20px; */
+}
+
+a {
+  color: #007BFF;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.contact {
+  margin-top: 20px;
+}
