@@ -1,0 +1,47 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f9fbfd;
+  color: #0a1a36;
+}
+
+header {
+  background: #0a1a36;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+}
+
+header .logo {
+  height: 40px;
+}
+
+nav a {
+  color: white;
+  margin: 0 1rem;
+  text-decoration: none;
+}
+
+.hero {
+  text-align: center;
+  padding: 5rem 2rem;
+}
+
+.cta-button {
+  background: #0a1a36;
+  color: white;
+  padding: 1rem 2rem;
+  text-decoration: none;
+  border-radius: 8px;
+  font-size: 1.2rem;
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem;
+  font-size: 0.9rem;
+  background: #f0f4f8;
+}
